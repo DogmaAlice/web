@@ -1,7 +1,7 @@
 var XM = XM || {};
 (function (){
     XM.hOpt = function (l) {
-        var is='homemade,lez ,les ,old,massage,femdom,grandma,grandpa,classic,sbian,vintage,PACKMANS,kimono'.split(',');
+        var is='homemade,lez ,les ,old,granny,massage,femdom,grandma,grandpa,classic,sbian,vintage,PACKMANS,kimono'.split(',');
         var ts=document.getElementsByClassName('hRotator');
         for(var i=0; i<ts.length; i++){
             if(ts[i].nodeName=='A'&&ts[i].childNodes.length>0){
