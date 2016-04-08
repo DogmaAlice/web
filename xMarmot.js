@@ -31,6 +31,6 @@ var XM = XM || {};
     };
     
     XM.hTitle = function(){
-        window.prompt('Copy this.',document.getElementsByName('vid')[0].value+'_'+document.getElementsByTagName('h1')[0].innerHTML.replace(/\s+/g,'_').replace(/\./,'_').replace(/&amp;/g, '&')+'.flv');
+        window.prompt('Copy this.',document.getElementsByName('vid')[0].value+'_'+document.getElementsByTagName('h1')[0].innerHTML.replace(/\s+/g,'_').replace(/\./,'_').replace(/&amp;/g, '&')+'.mp4');
     };
 })();
